@@ -1,0 +1,56 @@
+annot_id: val-1223
+caption: The image depicts a group of people huddled together on a bench and sitting
+  on the ground. They appear to be homeless or in need of assistance. Among them,
+  a woman is holding a baby, which adds to the sense of vulnerability in the scene.
+  The group is composed of both men and women, and they are positioned close to each
+  other, possibly seeking warmth and companionship. The setting suggests that they
+  might be in a public space, such as a park, where they have gathered to rest and
+  share their situation.
+history: ' You are LLaVA, a large language model trained by UW Madison WAIV Lab, based
+  on LLaMA architecture.You are designed to assist human with a variety of tasks using
+  natural language.Follow the instructions carefully.###Human: Hi!###Assistant: Hi
+  there!  How can I help you today?
+
+  ###Human: Give a clear and concise summary of the image below in one paragraph.
+  <im_start> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_end>  ### Assistant: The image depicts a group of people huddled
+  together on a bench and sitting on the ground. They appear to be homeless or in
+  need of assistance. Among them, a woman is holding a baby, which adds to the sense
+  of vulnerability in the scene. The group is composed of both men and women, and
+  they are positioned close to each other, possibly seeking warmth and companionship.
+  The setting suggests that they might be in a public space, such as a park, where
+  they have gathered to rest and share their situation.
+
+  ###'
+img_fn: /home/haoxuan/data/vcr1/vcr1images/lsmdc_1010_TITANIC/1010_TITANIC_02.59.50.160-02.59.50.728@0.jpg

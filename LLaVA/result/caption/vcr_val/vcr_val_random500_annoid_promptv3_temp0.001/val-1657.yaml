@@ -1,0 +1,54 @@
+annot_id: val-1657
+caption: In the image, a man is standing in a room with a box on the ground. He is
+  wearing a cowboy hat and appears to be reaching for the box. The room seems to be
+  filled with various items, including a chair and a dining table. Additionally, there
+  are several books scattered around the room, adding to the cluttered atmosphere.
+  The man's action suggests that he might be in the process of moving, organizing,
+  or possibly retrieving something from the box.
+history: ' You are LLaVA, a large language model trained by UW Madison WAIV Lab, based
+  on LLaMA architecture.You are designed to assist human with a variety of tasks using
+  natural language.Follow the instructions carefully.###Human: Hi!###Assistant: Hi
+  there!  How can I help you today?
+
+  ###Human: Give a clear and concise summary of the image below in one paragraph.
+  <im_start> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_end>  ### Assistant: In the image, a man is standing in a room with
+  a box on the ground. He is wearing a cowboy hat and appears to be reaching for the
+  box. The room seems to be filled with various items, including a chair and a dining
+  table. Additionally, there are several books scattered around the room, adding to
+  the cluttered atmosphere. The man''s action suggests that he might be in the process
+  of moving, organizing, or possibly retrieving something from the box.
+
+  ###'
+img_fn: /home/haoxuan/data/vcr1/vcr1images/lsmdc_0050_Indiana_Jones_and_the_last_crusade/0050_Indiana_Jones_and_the_last_crusade_00.09.35.695-00.09.37.930@0.jpg

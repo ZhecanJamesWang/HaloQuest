@@ -1,0 +1,56 @@
+annot_id: val-1810
+caption: The image is a black and white scene featuring two men in suits, hats, and
+  overcoats standing next to each other. They appear to be looking down at a large
+  crowd of people from an upper balcony. The men are dressed in a more formal attire,
+  while the people below seem to be engaged in various activities. The setting suggests
+  a historical or noir-inspired atmosphere. The overall mood of the image is enhanced
+  by the black and white color scheme and the contrast between the well-dressed men
+  observing the bustling scene below.
+history: ' You are LLaVA, a large language model trained by UW Madison WAIV Lab, based
+  on LLaMA architecture.You are designed to assist human with a variety of tasks using
+  natural language.Follow the instructions carefully.###Human: Hi!###Assistant: Hi
+  there!  How can I help you today?
+
+  ###Human: Give a clear and concise summary of the image below in one paragraph.
+  <im_start> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_end>  ### Assistant: The image is a black and white scene featuring
+  two men in suits, hats, and overcoats standing next to each other. They appear to
+  be looking down at a large crowd of people from an upper balcony. The men are dressed
+  in a more formal attire, while the people below seem to be engaged in various activities.
+  The setting suggests a historical or noir-inspired atmosphere. The overall mood
+  of the image is enhanced by the black and white color scheme and the contrast between
+  the well-dressed men observing the bustling scene below.
+
+  ###'
+img_fn: /home/haoxuan/data/vcr1/vcr1images/lsmdc_3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER/3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER_01.15.26.317-01.15.30.280@0.jpg

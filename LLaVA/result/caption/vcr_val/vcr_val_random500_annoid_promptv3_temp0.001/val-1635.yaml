@@ -1,0 +1,58 @@
+annot_id: val-1635
+caption: The image depicts a man and a woman sitting at a dining table, sharing an
+  intimate moment by kissing each other. The table is set with various items, including
+  wine glasses, cups, forks, knives, and spoons. There are a total of four wine glasses,
+  with two placed closer to the couple and the other two positioned further away.
+  The couple is surrounded by other people sitting at the table, with some of them
+  appearing to be engaged in conversation or enjoying their meal. The scene suggests
+  a social gathering or a celebration where the couple is sharing a special moment
+  with each other.
+history: ' You are LLaVA, a large language model trained by UW Madison WAIV Lab, based
+  on LLaMA architecture.You are designed to assist human with a variety of tasks using
+  natural language.Follow the instructions carefully.###Human: Hi!###Assistant: Hi
+  there!  How can I help you today?
+
+  ###Human: Give a clear and concise summary of the image below in one paragraph.
+  <im_start> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_end>  ###Assistant: The image depicts a man and a woman sitting at
+  a dining table, sharing an intimate moment by kissing each other. The table is set
+  with various items, including wine glasses, cups, forks, knives, and spoons. There
+  are a total of four wine glasses, with two placed closer to the couple and the other
+  two positioned further away. The couple is surrounded by other people sitting at
+  the table, with some of them appearing to be engaged in conversation or enjoying
+  their meal. The scene suggests a social gathering or a celebration where the couple
+  is sharing a special moment with each other.
+
+  ###'
+img_fn: /home/haoxuan/data/vcr1/vcr1images/lsmdc_3088_WHATS_YOUR_NUMBER/3088_WHATS_YOUR_NUMBER_01.17.19.056-01.17.19.860@0.jpg

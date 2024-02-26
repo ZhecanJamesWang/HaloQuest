@@ -1,0 +1,52 @@
+annot_id: val-2493
+caption: The image depicts a scene with two men in uniforms, possibly soldiers, running
+  along a sidewalk or pier. They are both carrying guns and appear to be in a hurry.
+  Behind them, there is a boat either docked or floating on the water. The presence
+  of the boat and the men in uniforms suggest a possible military operation or exercise
+  taking place in the area.
+history: ' You are LLaVA, a large language model trained by UW Madison WAIV Lab, based
+  on LLaMA architecture.You are designed to assist human with a variety of tasks using
+  natural language.Follow the instructions carefully.###Human: Hi!###Assistant: Hi
+  there!  How can I help you today?
+
+  ###Human: Give a clear and concise summary of the image below in one paragraph.
+  <im_start> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch> <im_patch>
+  <im_patch> <im_end>  ### Assistant: The image depicts a scene with two men in uniforms,
+  possibly soldiers, running along a sidewalk or pier. They are both carrying guns
+  and appear to be in a hurry. Behind them, there is a boat either docked or floating
+  on the water. The presence of the boat and the men in uniforms suggest a possible
+  military operation or exercise taking place in the area.
+
+  ###'
+img_fn: /home/haoxuan/data/vcr1/vcr1images/lsmdc_0050_Indiana_Jones_and_the_last_crusade/0050_Indiana_Jones_and_the_last_crusade_01.03.10.341-01.03.13.083@0.jpg
