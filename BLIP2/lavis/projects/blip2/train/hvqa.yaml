@@ -10,39 +10,24 @@ model:
   use_grad_checkpoint: True
   freeze_vit: True
   finetuned: ""
-
 datasets:
   vl_gen: # name of the dataset builder
     vis_processor:
         train:
           name: "blip2_image_train"
-          image_size: -1
+          image_size: 224
         eval:
           name: "blip_image_eval"
           image_size: 224
     text_processor:
         train:
           name: "blip_question"
-          max_words: -1
+          max_words: 512
         eval:
           name: "blip_question"
           max_words: 512
     type: uvqa
-    
-  coco_vqa: # name of the dataset builder
-    vis_processor:
-        train:
-          name: "blip_image_train"
-          image_size: 224
-        eval:
-          name: "blip_image_eval"
-          image_size: 224
-    text_processor:
-        train:
-          name: "blip_question"
-        eval:
-          name: "blip_question"
-    
+
 run:
   task: vl_gen
   # optimizer
@@ -53,17 +38,17 @@ run:
   warmup_steps: 1000
   weight_decay: 0.05
   max_epoch: 6
-  batch_size_train: 1
+  batch_size_train: 2
   batch_size_eval: 2
   num_workers: 4
-  accum_grad_iters: 16
+  accum_grad_iters: 8
 
   max_len_input: 50
   min_len: 8
   num_beams: 5
 
   seed: 42
-  output_dir: "blip2/vqa/"
+  output_dir: "blip2/hvqa/"
 
   amp: True
   resume_ckpt_path: null
@@ -76,4 +61,4 @@ run:
   device: "cuda"
   world_size: 1
   dist_url: "env://"
-  distributed: True
+  distributed: False

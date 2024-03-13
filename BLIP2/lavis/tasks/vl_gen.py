@@ -16,10 +16,7 @@ from lavis.common.logger import MetricLogger, SmoothedValue
 from lavis.datasets.data_utils import prepare_sample
 from lavis.common.dist_utils import get_rank, get_world_size, is_main_process, is_dist_avail_and_initialized
 import torch
-from pycocoevalcap.bleu.bleu_scorer import BleuScorer
-from pycocoevalcap.cider.cider_scorer import CiderScorer
-from pycocoevalcap.meteor.meteor import Meteor
-from lavis.tasks.eval_metrics import *
+from eval_metrics import *
 
 from lavis.common.registry import registry
 from lavis.common.vqa_tools.vqa import VQA

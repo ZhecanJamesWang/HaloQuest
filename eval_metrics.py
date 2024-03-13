@@ -7,9 +7,9 @@ from pycocoevalcap.bleu.bleu_scorer import BleuScorer
 from pycocoevalcap.cider.cider_scorer import CiderScorer
 from pycocoevalcap.meteor.meteor import Meteor
 
-from lavis.common.registry import registry
-from lavis.common.vqa_tools.vqa import VQA
-from lavis.common.vqa_tools.vqa_eval import VQAEval
+from BLIP2.lavis.common.registry import registry
+from BLIP2.lavis.common.vqa_tools.vqa import VQA
+from BLIP2.lavis.common.vqa_tools.vqa_eval import VQAEval
 def vqa_metrics(vqa_result_fn):
     metrics = {}
     vqa = VQA('storage/coco/annotations/v2_mscoco_val2014_annotations.json',

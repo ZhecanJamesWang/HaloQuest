@@ -4,6 +4,8 @@
  # For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
 
 model:
+  # arch: blip2_t5_instruct
+  # model_type: flant5xl
   arch: blip2_t5
   model_type: pretrain_flant5xl
   load_finetuned: False
