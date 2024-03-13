@@ -31,8 +31,6 @@ DEFAULT_IMAGE_PATCH_TOKEN = "<im_patch>"
 DEFAULT_IM_START_TOKEN = "<im_start>"
 DEFAULT_IM_END_TOKEN = "<im_end>"
 
-# Added by Haoxuan
-import pdb
 import jsonlines
 from copy import deepcopy
 import yaml
@@ -292,11 +290,11 @@ def eval_model(args):
     #             Data Loading
     # ========================================
     if 'vcr' in args.dataset:
-        vcr_data_path = '/home/haoxuan/data/vcr1/'
+        vcr_data_path = '...'
         img_paths = load_vcr_data(vcr_data_path)
     elif 'okvqa' in args.dataset:
-        okvqa_question_path = '/dvmm-filer3a/users/rui/multi-task/datasets/okvqa/OpenEnded_mscoco_val2014_questions.json'
-        okvqa_image_path = '/dvmm-filer3a/users/rui/multi-task/coco/val2014/val2014/'
+        okvqa_question_path = '...'
+        okvqa_image_path = '...'
         img_paths = load_okvqa_data(question_path=okvqa_question_path, image_path=okvqa_image_path)
     else:
         raise NotImplementedError('Not support other datasets yet.')

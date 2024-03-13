@@ -107,17 +107,13 @@ args = parse_args()
 #             Data Loading
 # ========================================
 if 'vcr' == args.dataset:
-    vcr_data_path = '/home/haoxuan/data/vcr1/'
+    vcr_data_path = '...'
     img_paths = load_vcr_data(vcr_data_path)
-elif 'retrieval' == args.dataset:
-    img_names, img_paths = load_image_data('/home/tangtangwzc/lxmert_clip/HVCR/blip_evaluation/retrieval')
 elif 'uqa' == args.dataset:
-    img_names, img_paths = load_image_data('/dvmm-filer3a/users/james/gvalue/midjourney_images/')
-elif 'uqa2' == args.dataset:
-    img_names, img_paths = load_image_data('/dvmm-filer3a/users/james/gvalue/imagen_parti_images/')
+    img_names, img_paths = load_image_data('..')
 elif 'okvqa' == args.dataset:
-    okvqa_question_path = '/dvmm-filer3a/users/rui/multi-task/datasets/okvqa/OpenEnded_mscoco_val2014_questions.json'
-    okvqa_image_path = '/dvmm-filer3a/users/rui/multi-task/coco/val2014/val2014/'
+    okvqa_question_path = '...'
+    okvqa_image_path = '...'
     img_paths = load_okvqa_data(question_path=okvqa_question_path, image_path=okvqa_image_path)
 else:
     raise NotImplementedError('Not support other datasets yet.')
@@ -169,20 +165,10 @@ for idx, img_path in enumerate(tqdm(img_paths, desc='Generating Captions')):
 
     img_list = []
     chat_state = CONV_VISION.copy()
-    # v0
-    # text_input = '''Describe this image as detail as possible. Don’t imagine things not existed in image.'''
-    # v1
-    # text_input = '''Describe this image as detail as possible.'''
-    # v2
-    # text_input = '''Describe this image in detail'''
-    # v3
-    # text_input = '''Describe this image as detail as possible in one paragraph.'''
-    # v4
-    # text_input = '''Describe this image as detail as possible, faithfully and coherently, in one paragraph.'''
+
     if filename_words_str == '':
         text_input = '''Describe this image as detail as possible. Don’t imagine things not existed in the image.'''
     else:
-        # v5
         text_input = '''Describe this image as detail as possible. Don’t imagine things not existed in the image. Here
         are some hint context about the image.'''
 
