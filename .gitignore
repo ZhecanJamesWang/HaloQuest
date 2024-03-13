@@ -1,7 +1,12 @@
-# data files
+# system files
 .DS_Store
+.idea
+
+# data files
 *.csv
 *.p
+*.png
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
