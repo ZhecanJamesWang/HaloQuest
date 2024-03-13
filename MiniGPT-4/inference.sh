@@ -1,1 +1,0 @@
-python inference.py --cfg-path eval_configs/minigpt4_eval.yaml  --gpu-id x --dataset=haloquest --data_partition=0_10000 --version=test
