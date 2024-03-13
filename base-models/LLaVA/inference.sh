@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=x python ./llava/eval/inference.py --model-name LLaVA-13B --temperature=0.001 --version=x
