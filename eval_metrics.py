@@ -2,7 +2,7 @@ import logging
 import json
 import os
 
-from lavis.common.registry import registry
+from BLIP2.lavis.common.registry import registry
 from pycocoevalcap.bleu.bleu_scorer import BleuScorer
 from pycocoevalcap.cider.cider_scorer import CiderScorer
 from pycocoevalcap.meteor.meteor import Meteor
