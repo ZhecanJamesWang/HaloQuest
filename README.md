@@ -36,6 +36,7 @@ we plan to release the code of Auto-Eval by the publication.
 
 Inside the folder `automatic-qa-generator`, we utilize the Machine-Human-in-the-Loop approach in our work to employ LLM and VLMs to generate a portion of our initial question-answer pair data. The framework is implemented following [IdealGPT](https://github.com/Hxyou/IdealGPT). -->
 
+
 ## HaloQuest Data
 
 We are actively working on open-sourcing the dataset and aim to have it ready in time for the conference.
