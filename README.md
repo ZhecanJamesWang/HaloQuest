@@ -30,11 +30,9 @@ For each base model, please follow the setup and environment requirements specif
 ## Evaluation
 
 Inside the folder `evaluation`, the `eval_metrics.py` file contains evaluation code for both VQA v2 and conventional metrics such as BLEU, CIDER, ROUGE, and METEOR. 
-we plan to release the code of Auto-Eval by the publication. 
+
 
 ## HaloQuest Data
-
-We are actively working on open-sourcing the dataset and aim to have it ready in time for the conference.
 
 For your reference, we provide some examples of HaloQuest data here.
 
