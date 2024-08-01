@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the official repository of our paper, **HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**. This repository contains code, models, evaluation metrics, and information related to our dataset and research paper.
+Welcome to the official repository of our ECCV 2024 paper, [**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**](https://arxiv.org/abs/2407.15680). This repository contains code, models, evaluation metrics, and information related to our dataset and research paper.
 
 
 ## Structure
