@@ -4,6 +4,7 @@
 
 Welcome to the code repository of our ECCV 2024 paper, [**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**](https://arxiv.org/abs/2407.15680). This repository contains code, models, evaluation metrics, and information related to our dataset and research paper.
 
+The data repository can be accessed [here](https://github.com/google/haloquest).
 
 ## Structure
 
