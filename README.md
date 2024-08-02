@@ -62,27 +62,19 @@ If you want to use the data, please refer to the [data repository](https://githu
 
 ## Leaderboard
 
-
 <table>
   <thead>
     <tr>
-      <th>Model (#Param)</th>
-      <th>Rank</th>
-      <th>Overall</th>
-      <th>Generated</th>
-      <th></th>
-      <th>Real</th>
-      <th></th>
-      <th>False Premise</th>
-      <th></th>
-      <th>Visually Challenging</th>
-      <th></th>
-      <th>Insufficient Context</th>
-      <th></th>
+      <th rowspan="2">Model (#Param)</th>
+      <th rowspan="2">Rank</th>
+      <th colspan="2">Overall</th>
+      <th colspan="2">Generated</th>
+      <th colspan="2">Real</th>
+      <th colspan="2">False Premise</th>
+      <th colspan="2">Visually Challenging</th>
+      <th colspan="2">Insufficient Context</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
       <th>Human Eval</th>
       <th>Auto-Eval</th>
       <th>Human Eval</th>
@@ -285,5 +277,10 @@ If you want to use the data, please refer to the [data repository](https://githu
       <td>12</td>
       <td>5</td>
       <td>4.6</td>
-      <td>26
-
+      <td>26.8</td>
+      <td>26.8</td>
+      <td>1.7</td>
+      <td>6.6</td>
+    </tr>
+    <tr>
+      <td>mPLUG-Owl1 (7B)</td
