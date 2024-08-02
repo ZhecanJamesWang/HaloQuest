@@ -43,9 +43,6 @@ If you want to use the data, please refer to the [data repository](https://githu
 
 ## Leaderboard
 
-Sure, here is the table in HTML format:
-
-```html
 <table>
   <thead>
     <tr>
@@ -268,13 +265,8 @@ Sure, here is the table in HTML format:
       <td>12</td>
       <td>5</td>
       <td>4.6</td>
-      <td>26.8</td>
-      <td>26.8</td>
-      <td>1.7</td>
-      <td>6.6</td>
-    </tr>
-    <tr>
-      <td>mPLUG
+      <td>26
+
 
 ## Contributions
 
