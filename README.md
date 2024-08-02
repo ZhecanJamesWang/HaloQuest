@@ -283,4 +283,66 @@ If you want to use the data, please refer to the [data repository](https://githu
       <td>6.6</td>
     </tr>
     <tr>
-      <td>mPLUG-Owl1 (7B)</td
+      <td>mPLUG-Owl1 (7B)</td>
+      <td>13</td>
+      <td>9.7</td>
+      <td>8.7</td>
+      <td>11.3</td>
+      <td>10.2</td>
+      <td>6.9</td>
+      <td>6</td>
+      <td>1</td>
+      <td>0.3</td>
+      <td>29</td>
+      <td>26.8</td>
+      <td>2.5</td>
+      <td>2.5</td>
+    </tr>
+    <tr>
+      <td>mPLUG-Owl2 (7B)</td>
+      <td>14</td>
+      <td>9.2</td>
+      <td>10.4</td>
+      <td>11</td>
+      <td>11.3</td>
+      <td>6</td>
+      <td>8.8</td>
+      <td>0.8</td>
+      <td>3.3</td>
+      <td>28.4</td>
+      <td>27.9</td>
+      <td>0.8</td>
+      <td>3.3</td>
+    </tr>
+    <tr>
+      <td>OFA (1B)</td>
+      <td>15</td>
+      <td>8.7</td>
+      <td>10.2</td>
+      <td>9.7</td>
+      <td>11.3</td>
+      <td>6.9</td>
+      <td>8.3</td>
+      <td>5</td>
+      <td>6.3</td>
+      <td>19.7</td>
+      <td>20.2</td>
+      <td>1.7</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Open-flamingo (3B)</td>
+      <td>16</td>
+      <td>6.9</td>
+      <td>8.2</td>
+      <td>7.4</td>
+      <td>8.7</td>
+      <td>6</td>
+      <td>7.4</td>
+      <td>0.7</td>
+      <td>1.3</td>
+      <td>19.1</td>
+      <td>21.3</td>
+      <td>4.1</td>
+      <td>5.8</td>
+    </tr>
