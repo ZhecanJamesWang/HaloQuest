@@ -42,23 +42,6 @@ For your reference, we provide some examples of HaloQuest data here.
 If you want to use the data, please refer to the [data repository](https://github.com/google/haloquest).
 
 
-## Contributions
-
-[Zhecan Wang](https://www.zhecanwang.com/)\*, [Garrett Bingham](https://garrettbingham.com/)\*, [Adams Wei Yu](https://adamsyu.github.io/), [Quoc V. Le](https://research.google/people/quoc-v-le/?&type=google), [Thang Luong](https://nlp.stanford.edu/~lmthang/), [Golnaz Ghiasi](https://research.google/people/golnaz-ghiasi/?&type=google)
-
-(\* ZW and GB are main contributors. ZW did some work while at Google DeepMind.)
-
-## Citing this work
-
-```latex
-@inproceedings{wang2024haloquest,
-  title={HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning},
-  author={Zhecan Wang and Garrett Bingham and Adams Wei Yu and Quoc V. Le and Thang Luong and Golnaz Ghiasi},
-  booktitle={European Conference on Computer Vision},
-  year={2024},
-  organization={Springer}
-}
-```
 
 ## Leaderboard
 
@@ -346,3 +329,23 @@ If you want to use the data, please refer to the [data repository](https://githu
       <td>4.1</td>
       <td>5.8</td>
     </tr>
+  </tbody>
+</table>
+
+## Contributions
+
+[Zhecan Wang](https://www.zhecanwang.com/)\*, [Garrett Bingham](https://garrettbingham.com/)\*, [Adams Wei Yu](https://adamsyu.github.io/), [Quoc V. Le](https://research.google/people/quoc-v-le/?&type=google), [Thang Luong](https://nlp.stanford.edu/~lmthang/), [Golnaz Ghiasi](https://research.google/people/golnaz-ghiasi/?&type=google)
+
+(\* ZW and GB are main contributors. ZW did some work while at Google DeepMind.)
+
+## Citing this work
+
+```latex
+@inproceedings{wang2024haloquest,
+  title={HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning},
+  author={Zhecan Wang and Garrett Bingham and Adams Wei Yu and Quoc V. Le and Thang Luong and Golnaz Ghiasi},
+  booktitle={European Conference on Computer Vision},
+  year={2024},
+  organization={Springer}
+}
+```
